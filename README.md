@@ -52,6 +52,53 @@ Governance and DAOs: Use RIZO TOKEN in projects with decentralized autonomous or
 
 - **Security and Safety Features**: Leveraging libraries like SafeERC20 and checks like Address.isContract, RIZO TOKEN prioritizes security, reducing the risk of vulnerabilities.
 
+  ## RIZO Rocket
+
+
+                  
+                  |
+                 / \
+                |   |
+                |   |
+                |   |
+                |   |
+                | R |
+                | I |
+                | Z |
+                | O |
+                |   |
+                | T |
+                | O |
+                | K |
+                | E |
+                | N |
+                |   |
+               /| |\ \
+              / | | | \
+             /  | | |  \
+            /   | | |   \
+           /____| | |____\
+               [_____]
+                \___/
+
+
+-**RRRRRRR  IIIII ZZZZZZZZ   OOOOO  
+   RR   RRR  III     ZZZ   OO     OO 
+   RRRRRRR   III   ZZZ     OO     OO 
+   RR  RR    III  ZZZ      OO     OO 
+   RR   RR  IIIII ZZZZZZZZ   OOOO0**  
+
+- **TTTTTTTTT OOOOO  K  K EEEEE  N   N 
+       TTT   OO   OO K K  E      NN  N 
+       TTT   OO   OO KK   EEEE   N N N 
+       TTT   OO   OO K K  E      N  NN 
+       TTT    OOOO0  K  K EEEEE  N   N**
+
+
+
+
+  
+
 ## Getting Started
 
 To embark on your journey with RIZO TOKEN, follow these steps if you wish.
