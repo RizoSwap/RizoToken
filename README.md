@@ -81,6 +81,7 @@ Governance and DAOs: Use RIZO TOKEN in projects with decentralized autonomous or
                [_____]
                 \___/
 
+## RIZ0
 
    RRRRRRR  IIIII ZZZZZZZZ   OOOOO  
    RR   RRR  III     ZZZ   OO     OO 
