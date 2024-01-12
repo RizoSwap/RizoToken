@@ -2,7 +2,7 @@
 
 RIZO | Unlocking the Potential of a Multi-functional Blockchain Contract
 
-![RIZO TOKEN](rizologo.png)
+![RIZO TOKEN](RizoLogo.png)
 
 ## Table of Contents
 
