@@ -1,0 +1,45 @@
+{
+	"compiler": {
+		"version": "0.8.1+commit.df193b15"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"Rizo.sol": "Address"
+		},
+		"evmVersion": "istanbul",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"Rizo.sol": {
+			"keccak256": "0x86b8090ad4bf2a0a02d2b3dd69c1d6c1d04052986bf575656f372e818f456f19",
+			"license": "GPL-3.0-or-later",
+			"urls": [
+				"bzz-raw://3b143577309c92e7de50a70479e89d963432fd37478b2de1965b72c2062da2d7",
+				"dweb:/ipfs/QmaG6yfQLpScMc564MwB1SvQRg6A92ACgJ8mi79aRfjjdL"
+			]
+		}
+	},
+	"version": 1
+}
