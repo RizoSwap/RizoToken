@@ -19,11 +19,11 @@ Welcome to the RIZO TOKEN project! RIZO TOKEN is a multifunctional blockchain co
 
 ## Token Information
 
-Token Name: Rizo
-Symbol: RIZO
-Contract Address: 0x13A92eBc97E294058ed69943b20F08eFdAa06bff
-FTMScan : https://ftmscan.com/address/0x13a92ebc97e294058ed69943b20f08efdaa06bff
-Logo : https://github.com/RizoSwap/RizoToken/RizoLogo.png
+- **Token Name**: Rizo
+- **Symbol**: RIZO
+- **Contract Address**: 0x13A92eBc97E294058ed69943b20F08eFdAa06bff
+- **FTMScan**: https://ftmscan.com/address/0x13a92ebc97e294058ed69943b20f08efdaa06bff
+- **Logo**: https://github.com/RizoSwap/RizoToken/RizoLogo.png
 
 ## Usage
 DeFi Ecosystems: RIZO TOKEN is perfect for DeFi projects, offering gas-efficient approvals and smart contract interaction to improve user experience and efficiency.
